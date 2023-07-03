@@ -78,6 +78,13 @@ httpx
           - google drive 또는 DIS 사이트에서 얻을 수 있음 
 ```
 
+## Training
++ process
+![](./image/train.png)
++ codes and files
+    + https://drive.google.com/drive/folders/1b2MMi2FvCjzxXPUgwnFJ0iK3rdLqGHio
+
+
 ## Please Clone Extra Loss Function 
 git clone https://github.com/shubhtuls/PerceptualSimilarity.git 
 
