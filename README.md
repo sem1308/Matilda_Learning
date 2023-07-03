@@ -61,6 +61,23 @@ PyJWT
 httpx
 ```
 
+
+## Required Files
+```
+├─mask
+│  └─DIS
+│      └─saved_models
+│         {category}.pth
+│         - {category} 에는 각 카테고리에 맞는 이름 삽입
+│         - ex) 반지 - ring.pth
+│         - 각 pth 파일은 google drive에서 얻을 수 있음 
+└─predictor
+   └─network
+      └─models
+          isnet.pth
+          - google drive 또는 DIS 사이트에서 얻을 수 있음 
+```
+
 ## Please Clone Extra Loss Function 
 git clone https://github.com/shubhtuls/PerceptualSimilarity.git 
 
